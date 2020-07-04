@@ -1,1 +1,1 @@
-# This is to build the app
+# This is to build the app on Azure
