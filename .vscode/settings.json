@@ -1,0 +1,8 @@
+{
+    "npm-scripts.showStartNotification": false,
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "."
+}
